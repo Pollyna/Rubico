@@ -19,7 +19,7 @@ h2 {
   font-family: "OpenSans";
 }
 body {
-  background-image: url('../images/bg_dots _black.png');
+  background-image: url('../images/bg_dots._black.png');
 }
 .logo {
   margin: 29px 26px 0 0;
@@ -359,7 +359,7 @@ h2 {
   background: url('../images/use.png') no-repeat center top;
 }
 .about_us {
-  background: url(../images/Rectangle%206.png) 100% 100%;
+  background: url(../images/Rectangle.6.png) 100% 100%;
   padding-top: 50px;
 }
 h1 {
@@ -1213,7 +1213,7 @@ margin-right: -15px;
     background: url('../images/use.png') no-repeat center top;
   }
   .about_us {
-    background: url(../images/Rectangle%206.png) 100% 100%;
+    background: url(../images/Rectangle.6.png) 100% 100%;
     padding-top: 50px;
   }
   h1 {
